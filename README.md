@@ -1,5 +1,5 @@
-## 2D Minion Runner 
-2d runner for video game programming (mbhs)
+## 2D minion runner
+2d runner for video game programming class (mbhs)
 
 <img width="700" height="400" alt="Screenshot 2025-11-12 at 12 49 13" src="https://github.com/user-attachments/assets/5c8447af-56d8-4d81-9318-b33c3aa5f954" />
 
