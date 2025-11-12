@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://7deufn0wfut"
+path="res://.godot/imported/Minions - Tiki X-Mas - Merry Christmas !!!.wav-5e3f57bbe0c31f6a9f6e716585d73463.sample"
+
+[deps]
+
+source_file="res://art/Minions - Tiki X-Mas - Merry Christmas !!!.wav"
+dest_files=["res://.godot/imported/Minions - Tiki X-Mas - Merry Christmas !!!.wav-5e3f57bbe0c31f6a9f6e716585d73463.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0
